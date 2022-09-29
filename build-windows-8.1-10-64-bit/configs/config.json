@@ -1,0 +1,9 @@
+
+{
+  "__comment__": "add tcf Account",
+  "___comment___": "Go to types.json & antenne.json",
+  "email": "write your email here",  
+  "password": "write your password here",
+  "TCF_TYPE": "1",
+  "antenne": "Alger"
+}
