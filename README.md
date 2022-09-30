@@ -7,6 +7,7 @@
 # Libraries 
 - Requests
 - Flask 
+- The Twilio REST API  (to query metadata about your account, phone numbers, calls, text messages, and recordings)
 
 # About the Bot 
 - This bot used to get an appointement of a French test to get the visa for the students
